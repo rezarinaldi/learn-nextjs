@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TypeScript Next.js example
+
+This is a really simple project that shows the usage of [Next.js with TypeScript](https://github.com/vercel/next.js/tree/canary/examples/with-typescript).
+
+## How to use it?
+
+Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+
+```bash
+npx create-next-app --example with-typescript with-typescript-app
+# or
+yarn create next-app --example with-typescript with-typescript-app
+```
+
+---
 
 ## Getting Started
 

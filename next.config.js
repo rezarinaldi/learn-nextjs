@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    appName: "Learn Next JS",
+    appName: "Learn Next.js + TypeScript Example",
   },
 
   async rewrites() {

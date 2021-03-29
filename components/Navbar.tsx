@@ -16,6 +16,11 @@ export default function Navbar() {
             <Link href="/about">
               <a className="text-blue-200 hover:text-white py-5 px-3">About</a>
             </Link>
+            <Link href="/users">
+              <a className="text-blue-200 hover:text-white py-5 px-3">
+                Users List
+              </a>
+            </Link>
             <Link href="/login">
               <a className="text-blue-200 hover:text-white py-5 px-3">Login</a>
             </Link>
